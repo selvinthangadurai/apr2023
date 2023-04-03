@@ -1,0 +1,18 @@
+Lab1
+    create Lab1.go
+    package tmp
+    import "fmt1"
+    
+    func main(){
+    fmt.Println("Hello World!")
+    }
+    
+    go fmt Lab1.go
+    observe errors
+    
+
+Lab1 - Installables
+       Golang
+       Visual Code
+       
+       
